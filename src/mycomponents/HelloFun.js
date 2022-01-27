@@ -2,7 +2,7 @@ import React from 'react'
 import '../../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 
-function Heading(props){
+function HelloFun(props){
 
   function doThis(){
       alert("Button is clicked")
@@ -18,4 +18,4 @@ function Heading(props){
     )
 }
 
-export default Heading
+export default HelloFun

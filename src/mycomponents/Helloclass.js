@@ -15,6 +15,7 @@ class Helloclass extends Component{
             
         )
     }
+    
 }
 
 export default Helloclass 
