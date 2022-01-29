@@ -4,12 +4,8 @@ import "../App.css";
 // App.js
 function Home() {
     return (
-      <div className='about'>
-        <h1>Home Page</h1>
+      <div>
       
-
-      
-   
 <div className="w3-top">
   <div className="w3-bar w3-white w3-padding w3-card" style={{letterSpacing: '4px'}}>
     <a href="#home" className="w3-bar-item w3-button">Gourmet au Catering</a>
@@ -22,10 +18,15 @@ function Home() {
   </div>
 </div>
 
+  
+      </div>
+
+      
+    
         
         
           
-</div>
+        
         
       
     );
