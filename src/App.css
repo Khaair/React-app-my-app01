@@ -1,3 +1,25 @@
-.app .ap {
-  color: rebeccapurple;
+.navv {
+  background-color: royalblue;
+}
+
+.navv ul {
+  display: flex;
+  justify-content: center;
+
+  list-style: none;
+  color: aliceblue;
+}
+
+.navv ul li {
+  margin: 10px;
+}
+
+.ll {
+  color: beige;
+  text-decoration: none;
+}
+
+.about {
+  text-align: center;
+  color: red;
 }
